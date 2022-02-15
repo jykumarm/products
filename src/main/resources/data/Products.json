@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "name" : "Jeans",
+      "description": "Men Blue 511 Slim Fit Light Fade Stretchable Jeans",
+      "imageUrls": []
+    },
+    {
+      "name" : "JeansX",
+      "description": "Men Blue Slim Fit Light Fade Stretchable Jeans L",
+      "imageUrls": []
+    }
+  ]
+}
